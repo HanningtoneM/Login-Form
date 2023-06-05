@@ -81,5 +81,15 @@ body {
     outline: none;
 }
 
+.form-control label {
+    position: absolute;
+    top: 15px;
+    left: 0;
+    font-size: 18px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+}
+
 
 
